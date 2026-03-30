@@ -1,49 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruva%20P%20Gowda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Quant%20Researcher%20%C2%B7%20Builder%20%C2%B7%20CS%20Student&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&text=Dhruva%20P%20Gowda&fontSize=16&fontColor=c9d1d9&fontAlignY=68"/>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+trading+engines+%F0%9F%93%88;Shipping+AI+products+%F0%9F%9A%80;19+y%2Fo+from+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
 </p>
 
----
-
-### 🧠 What I'm building
-- ⚡ Algorithmic trading engine — Nifty indices (mean reversion + VIX signals)
-- 🏥 Healthcare fraud detection startup via NHCX/TPA APIs
-- 🤖 AI systems, ML competitions & research
-
----
-
-### 🛠 Stack
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://streak-stats.demolab.com/?user=dhruva137&theme=transparent&hide_border=true&ring=555E7A&fire=555E7A&currStreakLabel=555E7A&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117" width="55%"/>
 </p>
 
----
-
-### 📊 GitHub Stats
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruva137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=dhruva137&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruva137&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruva137&style=for-the-badge&color=6C63FF" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruva137&style=flat-square&color=555E7A&label=views"/>
 </p>
