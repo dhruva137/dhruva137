@@ -5,16 +5,20 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruva137&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=555E7A&text_color=8b949e&icon_color=555E7A&hide=stars" width="46%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruva137&layout=compact&theme=transparent&hide_border=true&title_color=555E7A&text_color=8b949e&langs_count=6" width="36%"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
 </p>
 
 <br/>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruva137&theme=github_dark" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruva137&theme=github_dark" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruva137&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruva137&theme=github_dark&utcOffset=5.5" width="32%"/>
 </p>
 
 <br/>
@@ -38,7 +42,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>
