@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460" role="img">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;fill:#14171C;font-variant-numeric:tabular-nums}
+.lab{font-size:12px;fill:#6A707A}
+.sub{font-size:13px;fill:#6A707A}
+.serif{font-family:ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;font-weight:400;letter-spacing:-.015em}
+.f{opacity:0;animation:rise 1s cubic-bezier(.2,.7,.2,1) forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.7,.2,1) forwards}
+.d{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.8s cubic-bezier(.4,0,.2,1) .4s forwards}
+.p{animation:breathe 3.6s ease-in-out infinite}
+.s{opacity:0;animation:scan 11s linear 4s infinite}
+@keyframes rise{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes scan{0%{transform:translateX(0);opacity:0}6%{opacity:.55}94%{opacity:.55}100%{transform:translateX(795px);opacity:0}}
+@media (prefers-reduced-motion:reduce){
+  .f,.g,.d,.p{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
+  .s{display:none}
+}</style>
+<rect x=".5" y=".5" width="879" height="459" rx="8" fill="#FBFBFA" stroke="#E3E5E8"/>
+<text class="lab f" x="32" y="38" style="animation-delay:0.10s">Selected repositories</text>
+
+<text class="serif f" x="32" y="78" font-size="20" style="animation-delay:0.20s">shockmap</text>
+<text class="lab f" x="848" y="76" text-anchor="end" style="animation-delay:0.20s">1 star, 1 fork</text>
+<text class="sub f" x="32" y="100" style="animation-delay:0.25s">No description.</text>
+<text class="lab f" x="848" y="98" text-anchor="end" style="animation-delay:0.25s">JavaScript, pushed 5 months ago</text>
+<rect x="32" y="112" width="816" height="1" fill="#E3E5E8"/>
+<rect class="g" x="32" y="111.5" width="816.0" height="2" fill="#3A56D4" style="animation-delay:0.40s"/>
+
+<text class="serif f" x="32" y="142" font-size="20" style="animation-delay:0.30s">game-night</text>
+<text class="lab f" x="848" y="140" text-anchor="end" style="animation-delay:0.30s">0 stars, 0 forks</text>
+<text class="sub f" x="32" y="164" style="animation-delay:0.35s">No description.</text>
+<text class="lab f" x="848" y="162" text-anchor="end" style="animation-delay:0.35s">TypeScript, pushed 5 days ago</text>
+<rect x="32" y="176" width="816" height="1" fill="#E3E5E8"/>
+
+
+<text class="serif f" x="32" y="206" font-size="20" style="animation-delay:0.40s">dhruva137.github.io</text>
+<text class="lab f" x="848" y="204" text-anchor="end" style="animation-delay:0.40s">0 stars, 0 forks</text>
+<text class="sub f" x="32" y="228" style="animation-delay:0.45s">No description.</text>
+<text class="lab f" x="848" y="226" text-anchor="end" style="animation-delay:0.45s">TypeScript, pushed 15 days ago</text>
+<rect x="32" y="240" width="816" height="1" fill="#E3E5E8"/>
+
+
+<text class="serif f" x="32" y="270" font-size="20" style="animation-delay:0.50s">coast-vnet</text>
+<text class="lab f" x="848" y="268" text-anchor="end" style="animation-delay:0.50s">0 stars, 0 forks</text>
+<text class="sub f" x="32" y="292" style="animation-delay:0.55s">No description.</text>
+<text class="lab f" x="848" y="290" text-anchor="end" style="animation-delay:0.55s">Python, pushed 20 days ago</text>
+<rect x="32" y="304" width="816" height="1" fill="#E3E5E8"/>
+
+
+<text class="serif f" x="32" y="334" font-size="20" style="animation-delay:0.60s">coast</text>
+<text class="lab f" x="848" y="332" text-anchor="end" style="animation-delay:0.60s">0 stars, 0 forks</text>
+<text class="sub f" x="32" y="356" style="animation-delay:0.65s">No description.</text>
+<text class="lab f" x="848" y="354" text-anchor="end" style="animation-delay:0.65s">Python, pushed 21 days ago</text>
+<rect x="32" y="368" width="816" height="1" fill="#E3E5E8"/>
+
+
+<text class="serif f" x="32" y="398" font-size="20" style="animation-delay:0.70s">coast-</text>
+<text class="lab f" x="848" y="396" text-anchor="end" style="animation-delay:0.70s">0 stars, 1 fork</text>
+<text class="sub f" x="32" y="420" style="animation-delay:0.75s">No description.</text>
+<text class="lab f" x="848" y="418" text-anchor="end" style="animation-delay:0.75s">Python, pushed 21 days ago</text>
+<rect x="32" y="432" width="816" height="1" fill="#E3E5E8"/>
+
+</svg>

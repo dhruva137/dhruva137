@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="252" viewBox="0 0 880 252" role="img">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;fill:#14171C;font-variant-numeric:tabular-nums}
+.lab{font-size:12px;fill:#6A707A}
+.sub{font-size:13px;fill:#6A707A}
+.serif{font-family:ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;font-weight:400;letter-spacing:-.015em}
+.f{opacity:0;animation:rise 1s cubic-bezier(.2,.7,.2,1) forwards}
+.g{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.7,.2,1) forwards}
+.d{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.8s cubic-bezier(.4,0,.2,1) .4s forwards}
+.p{animation:breathe 3.6s ease-in-out infinite}
+.s{opacity:0;animation:scan 11s linear 4s infinite}
+@keyframes rise{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes grow{to{transform:scaleX(1)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes breathe{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes scan{0%{transform:translateX(0);opacity:0}6%{opacity:.55}94%{opacity:.55}100%{transform:translateX(795px);opacity:0}}
+@media (prefers-reduced-motion:reduce){
+  .f,.g,.d,.p{animation:none;opacity:1;transform:none;stroke-dashoffset:0}
+  .s{display:none}
+}</style>
+<rect x=".5" y=".5" width="879" height="251" rx="8" fill="#FBFBFA" stroke="#E3E5E8"/>
+
+<text class="lab f" x="32" y="42">github.com/dhruva137</text>
+<text class="lab f" x="848" y="42" text-anchor="end" style="animation-delay:0.10s">Updated 2026-10-01</text>
+<rect class="g" x="32" y="58" width="816" height="1" fill="#E3E5E8"/>
+<text class="serif f" x="32" y="122" font-size="48" style="animation-delay:0.20s">Dhruva P Gowda</text>
+<text class="f" x="32" y="152" font-size="16" fill="#6A707A" style="animation-delay:0.40s">Building careful systems and measuring what they do.</text>
+<text class="lab f" x="32" y="188" style="animation-delay:0.60s">Contributions, last 52 weeks</text>
+<text class="lab f" x="848" y="188" text-anchor="end" style="animation-delay:0.60s">476 total</text>
+<rect x="32" y="228" width="816" height="1" fill="#E3E5E8"/>
+<path class="d" pathLength="1" d="M32.0 228.0 L47.7 228.0 L63.4 228.0 L79.1 228.0 L94.8 228.0 L110.5 228.0 L126.2 228.0 L141.8 228.0 L157.5 228.0 L173.2 228.0 L188.9 228.0 L204.6 226.5 L220.3 226.3 L236.0 228.0 L251.7 228.0 L267.4 228.0 L283.1 226.7 L298.8 228.0 L314.5 227.0 L330.2 228.0 L345.8 228.0 L361.5 225.1 L377.2 227.8 L392.9 228.0 L408.6 226.7 L424.3 225.1 L440.0 224.2 L455.7 223.6 L471.4 227.8 L487.1 226.3 L502.8 222.6 L518.5 227.2 L534.2 228.0 L549.8 228.0 L565.5 228.0 L581.2 228.0 L596.9 228.0 L612.6 228.0 L628.3 228.0 L644.0 228.0 L659.7 228.0 L675.4 224.6 L691.1 227.4 L706.8 227.6 L722.5 226.3 L738.2 225.3 L753.8 219.8 L769.5 225.7 L785.2 221.1 L800.9 188.0 L816.6 225.5 L832.3 227.8 L848.0 226.3" fill="none" stroke="#3A56D4" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<g class="f" style="animation-delay:3.10s"><circle class="p" cx="848.0" cy="226.3" r="3" fill="#3A56D4"/></g>
+</svg>

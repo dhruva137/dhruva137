@@ -70,6 +70,14 @@
 </p>
 
 <!--REPOS:START-->
+| Repository | Description | Stars | Language |
+| :-- | :-- | --: | :-- |
+| [shockmap](https://github.com/dhruva137/shockmap) |  | 1 | JavaScript |
+| [game-night](https://github.com/dhruva137/game-night) |  | 0 | TypeScript |
+| [dhruva137.github.io](https://github.com/dhruva137/dhruva137.github.io) |  | 0 | TypeScript |
+| [coast-vnet](https://github.com/dhruva137/coast-vnet) |  | 0 | Python |
+| [coast](https://github.com/dhruva137/coast) |  | 0 | Python |
+| [coast-](https://github.com/dhruva137/coast-) |  | 0 | Python |
 <!--REPOS:END-->
 
 <br/>
