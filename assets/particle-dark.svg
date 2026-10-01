@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320" role="img">
+<style>@media(prefers-reduced-motion:reduce){circle,line{animation:none!important}}</style>
+<rect x=".5" y=".5" width="879" height="319" rx="8" fill="#0F1115" stroke="#23272E"/>
+<line x1="700.9" y1="275.5" x2="776.4" y2="266.3" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="13.8s" repeatCount="indefinite" begin="4.3s"/></line>
+<line x1="700.9" y1="275.5" x2="762.2" y2="204.1" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="13.2s" repeatCount="indefinite" begin="7.9s"/></line>
+<line x1="700.9" y1="275.5" x2="511.0" y2="284.5" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="8.5s" repeatCount="indefinite" begin="5.0s"/></line>
+<line x1="700.9" y1="275.5" x2="494.5" y2="238.0" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="8.1s" repeatCount="indefinite" begin="1.5s"/></line>
+<line x1="700.9" y1="275.5" x2="706.4" y2="119.9" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="12.3s" repeatCount="indefinite" begin="7.3s"/></line>
+<line x1="776.4" y1="266.3" x2="762.2" y2="204.1" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="10.7s" repeatCount="indefinite" begin="1.4s"/></line>
+<line x1="776.4" y1="266.3" x2="706.4" y2="119.9" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="14.7s" repeatCount="indefinite" begin="7.7s"/></line>
+<line x1="94.8" y1="66.1" x2="69.7" y2="217.5" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="14.3s" repeatCount="indefinite" begin="1.1s"/></line>
+<line x1="94.8" y1="66.1" x2="88.0" y2="143.5" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="12.6s" repeatCount="indefinite" begin="2.2s"/></line>
+<line x1="69.7" y1="217.5" x2="88.0" y2="143.5" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="8.9s" repeatCount="indefinite" begin="0.1s"/></line>
+<line x1="762.2" y1="204.1" x2="706.4" y2="119.9" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="10.6s" repeatCount="indefinite" begin="5.6s"/></line>
+<line x1="510.9" y1="71.4" x2="511.0" y2="284.5" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="14.6s" repeatCount="indefinite" begin="0.6s"/></line>
+<line x1="510.9" y1="71.4" x2="494.5" y2="238.0" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="13.5s" repeatCount="indefinite" begin="4.5s"/></line>
+<line x1="510.9" y1="71.4" x2="706.4" y2="119.9" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="15.7s" repeatCount="indefinite" begin="7.6s"/></line>
+<line x1="511.0" y1="284.5" x2="494.5" y2="238.0" stroke="#8CA2FF" stroke-width="0.7"><animate attributeName="stroke-opacity" values="0;0.38;0.04;0.21;0" dur="15.0s" repeatCount="indefinite" begin="0.5s"/></line>
+<line x1="709.6" y1="105.2" x2="832.1" y2="87.5" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="11.7s" repeatCount="indefinite" begin="1.1s"/></line>
+<line x1="709.6" y1="105.2" x2="582.3" y2="32.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="21.6s" repeatCount="indefinite" begin="4.5s"/></line>
+<line x1="709.6" y1="105.2" x2="574.5" y2="142.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="11.1s" repeatCount="indefinite" begin="3.2s"/></line>
+<line x1="709.6" y1="105.2" x2="703.4" y2="118.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="11.7s" repeatCount="indefinite" begin="3.6s"/></line>
+<line x1="709.6" y1="105.2" x2="745.8" y2="161.2" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="16.7s" repeatCount="indefinite" begin="1.8s"/></line>
+<line x1="334.0" y1="259.7" x2="315.2" y2="219.9" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="15.5s" repeatCount="indefinite" begin="4.4s"/></line>
+<line x1="106.0" y1="99.2" x2="213.0" y2="49.3" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="13.7s" repeatCount="indefinite" begin="8.0s"/></line>
+<line x1="106.0" y1="99.2" x2="150.8" y2="166.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="13.7s" repeatCount="indefinite" begin="7.6s"/></line>
+<line x1="213.0" y1="49.3" x2="150.8" y2="166.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="17.2s" repeatCount="indefinite" begin="1.1s"/></line>
+<line x1="832.1" y1="87.5" x2="703.4" y2="118.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="22.1s" repeatCount="indefinite" begin="3.6s"/></line>
+<line x1="832.1" y1="87.5" x2="745.8" y2="161.2" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="24.6s" repeatCount="indefinite" begin="1.3s"/></line>
+<line x1="76.2" y1="246.3" x2="142.6" y2="263.6" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="18.7s" repeatCount="indefinite" begin="0.0s"/></line>
+<line x1="76.2" y1="246.3" x2="150.8" y2="166.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="23.9s" repeatCount="indefinite" begin="7.0s"/></line>
+<line x1="552.6" y1="192.8" x2="510.0" y2="52.0" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="19.8s" repeatCount="indefinite" begin="6.3s"/></line>
+<line x1="552.6" y1="192.8" x2="498.7" y2="241.0" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="21.3s" repeatCount="indefinite" begin="6.7s"/></line>
+<line x1="552.6" y1="192.8" x2="574.5" y2="142.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="24.8s" repeatCount="indefinite" begin="5.1s"/></line>
+<line x1="552.6" y1="192.8" x2="522.6" y2="238.1" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="17.0s" repeatCount="indefinite" begin="5.1s"/></line>
+<line x1="552.6" y1="192.8" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="16.1s" repeatCount="indefinite" begin="4.4s"/></line>
+<line x1="510.0" y1="52.0" x2="582.3" y2="32.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="13.3s" repeatCount="indefinite" begin="7.4s"/></line>
+<line x1="510.0" y1="52.0" x2="574.5" y2="142.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="18.3s" repeatCount="indefinite" begin="1.6s"/></line>
+<line x1="510.0" y1="52.0" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="18.4s" repeatCount="indefinite" begin="6.8s"/></line>
+<line x1="498.7" y1="241.0" x2="574.5" y2="142.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="15.7s" repeatCount="indefinite" begin="1.1s"/></line>
+<line x1="498.7" y1="241.0" x2="522.6" y2="238.1" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="10.5s" repeatCount="indefinite" begin="7.0s"/></line>
+<line x1="498.7" y1="241.0" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="10.9s" repeatCount="indefinite" begin="5.7s"/></line>
+<line x1="142.6" y1="263.6" x2="150.8" y2="166.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="16.7s" repeatCount="indefinite" begin="7.5s"/></line>
+<line x1="582.3" y1="32.7" x2="574.5" y2="142.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="18.1s" repeatCount="indefinite" begin="5.9s"/></line>
+<line x1="582.3" y1="32.7" x2="703.4" y2="118.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="20.9s" repeatCount="indefinite" begin="4.4s"/></line>
+<line x1="582.3" y1="32.7" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="14.8s" repeatCount="indefinite" begin="6.1s"/></line>
+<line x1="574.5" y1="142.7" x2="522.6" y2="238.1" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="18.1s" repeatCount="indefinite" begin="3.8s"/></line>
+<line x1="574.5" y1="142.7" x2="703.4" y2="118.7" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="13.7s" repeatCount="indefinite" begin="6.2s"/></line>
+<line x1="574.5" y1="142.7" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="22.7s" repeatCount="indefinite" begin="7.1s"/></line>
+<line x1="522.6" y1="238.1" x2="524.9" y2="169.4" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="15.3s" repeatCount="indefinite" begin="6.4s"/></line>
+<line x1="703.4" y1="118.7" x2="745.8" y2="161.2" stroke="#ECEEF1" stroke-width="0.5"><animate attributeName="stroke-opacity" values="0;0.14;0.04;0.08;0" dur="24.5s" repeatCount="indefinite" begin="4.6s"/></line>
+<path id="pt_1sspr_0" d="M233.6,262.1 a56.768363520503044,20.83117916993797 0 1,1 113.5,0 a56.768363520503044,20.83117916993797 0 1,1 -113.5,0" fill="none" stroke="none"/>
+<circle r="1.7" fill="#ECEEF1">
+  <animateMotion dur="26.8s" repeatCount="indefinite" rotate="none" begin="0.7s"><mpath href="#pt_1sspr_0"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.21;0.05" dur="48.5s" repeatCount="indefinite" begin="0.7s"/>
+</circle>
+<path id="pt_mtvp6_1" d="M54.6,185.2 a35.186673775315285,14.179149121046066 0 1,1 70.4,0 a35.186673775315285,14.179149121046066 0 1,1 -70.4,0" fill="none" stroke="none"/>
+<circle r="1.4" fill="#ECEEF1">
+  <animateMotion dur="36.9s" repeatCount="indefinite" rotate="none" begin="7.5s"><mpath href="#pt_mtvp6_1"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.21;0.05" dur="29.4s" repeatCount="indefinite" begin="7.5s"/>
+</circle>
+<path id="pt_owxma_2" d="M156.1,201.9 a61.79078809916973,5.403274378739297 0 1,1 123.6,0 a61.79078809916973,5.403274378739297 0 1,1 -123.6,0" fill="none" stroke="none"/>
+<circle r="2.1" fill="#8CA2FF">
+  <animateMotion dur="20.8s" repeatCount="indefinite" rotate="none" begin="1.2s"><mpath href="#pt_owxma_2"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.19;0.05" dur="67.2s" repeatCount="indefinite" begin="1.2s"/>
+</circle>
+<path id="pt_cv0to_3" d="M281.2,162.8 a65.6114513874054,23.40809609182179 0 1,1 131.2,0 a65.6114513874054,23.40809609182179 0 1,1 -131.2,0" fill="none" stroke="none"/>
+<circle r="2.0" fill="#ECEEF1">
+  <animateMotion dur="20.8s" repeatCount="indefinite" rotate="none" begin="5.2s"><mpath href="#pt_cv0to_3"/></animateMotion>
+  <animate attributeName="opacity" values="0.07;0.29;0.07" dur="67.7s" repeatCount="indefinite" begin="5.2s"/>
+</circle>
+<path id="pt_536s4_4" d="M801.1,142.1 a22.567872405052185,19.80948124313727 0 1,1 45.1,0 a22.567872405052185,19.80948124313727 0 1,1 -45.1,0" fill="none" stroke="none"/>
+<circle r="2.1" fill="#ECEEF1">
+  <animateMotion dur="23.1s" repeatCount="indefinite" rotate="none" begin="3.2s"><mpath href="#pt_536s4_4"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.24;0.06" dur="51.3s" repeatCount="indefinite" begin="3.2s"/>
+</circle>
+<path id="pt_ozc55_5" d="M284.2,231.4 a23.6401586830616,3.756141388323158 0 1,1 47.3,0 a23.6401586830616,3.756141388323158 0 1,1 -47.3,0" fill="none" stroke="none"/>
+<circle r="1.4" fill="#ECEEF1">
+  <animateMotion dur="29.5s" repeatCount="indefinite" rotate="none" begin="2.9s"><mpath href="#pt_ozc55_5"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.19;0.05" dur="61.9s" repeatCount="indefinite" begin="2.9s"/>
+</circle>
+<path id="pt_gcuxk_6" d="M646.8,277.3 a47.37327139079571,5.624973775353283 0 1,1 94.7,0 a47.37327139079571,5.624973775353283 0 1,1 -94.7,0" fill="none" stroke="none"/>
+<circle r="1.3" fill="#ECEEF1">
+  <animateMotion dur="30.4s" repeatCount="indefinite" rotate="none" begin="4.4s"><mpath href="#pt_gcuxk_6"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.14;0.04" dur="39.1s" repeatCount="indefinite" begin="4.4s"/>
+</circle>
+<path id="pt_2dllj_7" d="M682.2,170.4 a39.092187121510506,16.95808631274849 0 1,1 78.2,0 a39.092187121510506,16.95808631274849 0 1,1 -78.2,0" fill="none" stroke="none"/>
+<circle r="2.1" fill="#ECEEF1">
+  <animateMotion dur="38.7s" repeatCount="indefinite" rotate="none" begin="8.5s"><mpath href="#pt_2dllj_7"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.23;0.06" dur="48.7s" repeatCount="indefinite" begin="8.5s"/>
+</circle>
+<path id="pt_u3nqj_8" d="M148.5,45.1 a26.80639737844467,4.799754068721086 0 1,1 53.6,0 a26.80639737844467,4.799754068721086 0 1,1 -53.6,0" fill="none" stroke="none"/>
+<circle r="1.2" fill="#ECEEF1">
+  <animateMotion dur="31.6s" repeatCount="indefinite" rotate="none" begin="8.3s"><mpath href="#pt_u3nqj_8"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.15;0.04" dur="49.9s" repeatCount="indefinite" begin="8.3s"/>
+</circle>
+<path id="pt_s4lzz_9" d="M823.2,39.5 a12.413336098194122,20.46061620581895 0 1,1 24.8,0 a12.413336098194122,20.46061620581895 0 1,1 -24.8,0" fill="none" stroke="none"/>
+<circle r="1.8" fill="#ECEEF1">
+  <animateMotion dur="25.5s" repeatCount="indefinite" rotate="none" begin="2.0s"><mpath href="#pt_s4lzz_9"/></animateMotion>
+  <animate attributeName="opacity" values="0.03;0.11;0.03" dur="47.6s" repeatCount="indefinite" begin="2.0s"/>
+</circle>
+<path id="pt_mrfxr_10" d="M355.1,146.4 a14.022104799747467,8.845538805704564 0 1,1 28.0,0 a14.022104799747467,8.845538805704564 0 1,1 -28.0,0" fill="none" stroke="none"/>
+<circle r="1.3" fill="#ECEEF1">
+  <animateMotion dur="24.9s" repeatCount="indefinite" rotate="none" begin="9.9s"><mpath href="#pt_mrfxr_10"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.16;0.04" dur="52.3s" repeatCount="indefinite" begin="9.9s"/>
+</circle>
+<path id="pt_4yha5_11" d="M481.3,124.1 a8.261278226971626,11.5915860645473 0 1,1 16.5,0 a8.261278226971626,11.5915860645473 0 1,1 -16.5,0" fill="none" stroke="none"/>
+<circle r="1.4" fill="#ECEEF1">
+  <animateMotion dur="22.1s" repeatCount="indefinite" rotate="none" begin="2.9s"><mpath href="#pt_4yha5_11"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.22;0.06" dur="35.5s" repeatCount="indefinite" begin="2.9s"/>
+</circle>
+<path id="pt_ks8sj_12" d="M622.5,100.5 a15.475877270102501,13.482228772249073 0 1,1 31.0,0 a15.475877270102501,13.482228772249073 0 1,1 -31.0,0" fill="none" stroke="none"/>
+<circle r="1.3" fill="#ECEEF1">
+  <animateMotion dur="21.9s" repeatCount="indefinite" rotate="none" begin="2.8s"><mpath href="#pt_ks8sj_12"/></animateMotion>
+  <animate attributeName="opacity" values="0.03;0.10;0.03" dur="32.3s" repeatCount="indefinite" begin="2.8s"/>
+</circle>
+<path id="pt_wp4oi_13" d="M597.5,97.9 a31.06655363738537,20.411396380979568 0 1,1 62.1,0 a31.06655363738537,20.411396380979568 0 1,1 -62.1,0" fill="none" stroke="none"/>
+<circle r="2.0" fill="#ECEEF1">
+  <animateMotion dur="22.0s" repeatCount="indefinite" rotate="none" begin="4.6s"><mpath href="#pt_wp4oi_13"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.22;0.06" dur="45.2s" repeatCount="indefinite" begin="4.6s"/>
+</circle>
+<path id="pt_xowt9_14" d="M758.8,60.9 a21.67642191052437,23.202000422868878 0 1,1 43.4,0 a21.67642191052437,23.202000422868878 0 1,1 -43.4,0" fill="none" stroke="none"/>
+<circle r="1.5" fill="#8CA2FF">
+  <animateMotion dur="25.3s" repeatCount="indefinite" rotate="none" begin="7.0s"><mpath href="#pt_xowt9_14"/></animateMotion>
+  <animate attributeName="opacity" values="0.07;0.28;0.07" dur="33.6s" repeatCount="indefinite" begin="7.0s"/>
+</circle>
+<path id="pt_dm5v5_15" d="M572.6,273.6 a56.08142501115799,5.946321176365018 0 1,1 112.2,0 a56.08142501115799,5.946321176365018 0 1,1 -112.2,0" fill="none" stroke="none"/>
+<circle r="1.6" fill="#ECEEF1">
+  <animateMotion dur="24.7s" repeatCount="indefinite" rotate="none" begin="6.3s"><mpath href="#pt_dm5v5_15"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.24;0.06" dur="56.4s" repeatCount="indefinite" begin="6.3s"/>
+</circle>
+<path id="pt_ed7ql_16" d="M422.6,84.8 a13.824954017996788,11.612555804662406 0 1,1 27.6,0 a13.824954017996788,11.612555804662406 0 1,1 -27.6,0" fill="none" stroke="none"/>
+<circle r="1.8" fill="#ECEEF1">
+  <animateMotion dur="39.3s" repeatCount="indefinite" rotate="none" begin="4.8s"><mpath href="#pt_ed7ql_16"/></animateMotion>
+  <animate attributeName="opacity" values="0.03;0.12;0.03" dur="65.2s" repeatCount="indefinite" begin="4.8s"/>
+</circle>
+<path id="pt_13yje_17" d="M233.2,139.8 a67.25453542172909,9.420634136069566 0 1,1 134.5,0 a67.25453542172909,9.420634136069566 0 1,1 -134.5,0" fill="none" stroke="none"/>
+<circle r="2.1" fill="#ECEEF1">
+  <animateMotion dur="22.7s" repeatCount="indefinite" rotate="none" begin="1.6s"><mpath href="#pt_13yje_17"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.17;0.04" dur="34.3s" repeatCount="indefinite" begin="1.6s"/>
+</circle>
+<path id="pt_fdtnq_18" d="M507.6,163.6 a57.379185408353806,21.612267513759434 0 1,1 114.8,0 a57.379185408353806,21.612267513759434 0 1,1 -114.8,0" fill="none" stroke="none"/>
+<circle r="1.4" fill="#ECEEF1">
+  <animateMotion dur="25.1s" repeatCount="indefinite" rotate="none" begin="6.0s"><mpath href="#pt_fdtnq_18"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.24;0.06" dur="41.2s" repeatCount="indefinite" begin="6.0s"/>
+</circle>
+<path id="pt_32xi9_19" d="M453.7,160.2 a49.37781463563442,20.76501376600936 0 1,1 98.8,0 a49.37781463563442,20.76501376600936 0 1,1 -98.8,0" fill="none" stroke="none"/>
+<circle r="2.2" fill="#ECEEF1">
+  <animateMotion dur="27.8s" repeatCount="indefinite" rotate="none" begin="5.2s"><mpath href="#pt_32xi9_19"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.19;0.05" dur="36.0s" repeatCount="indefinite" begin="5.2s"/>
+</circle>
+<path id="pt_g1rrj_20" d="M645.9,284.4 a65.97810158133507,11.717137086670846 0 1,1 132.0,0 a65.97810158133507,11.717137086670846 0 1,1 -132.0,0" fill="none" stroke="none"/>
+<circle r="2.0" fill="#ECEEF1">
+  <animateMotion dur="20.4s" repeatCount="indefinite" rotate="none" begin="7.5s"><mpath href="#pt_g1rrj_20"/></animateMotion>
+  <animate attributeName="opacity" values="0.03;0.13;0.03" dur="41.4s" repeatCount="indefinite" begin="7.5s"/>
+</circle>
+<path id="pt_z53hc_21" d="M820.4,74.6 a23.779405891895294,12.377668174915016 0 1,1 47.6,0 a23.779405891895294,12.377668174915016 0 1,1 -47.6,0" fill="none" stroke="none"/>
+<circle r="2.1" fill="#ECEEF1">
+  <animateMotion dur="35.9s" repeatCount="indefinite" rotate="none" begin="6.0s"><mpath href="#pt_z53hc_21"/></animateMotion>
+  <animate attributeName="opacity" values="0.07;0.29;0.07" dur="33.4s" repeatCount="indefinite" begin="6.0s"/>
+</circle>
+<path id="pt_lhqd7_22" d="M751.1,240.8 a31.33484424650669,17.954545570537448 0 1,1 62.7,0 a31.33484424650669,17.954545570537448 0 1,1 -62.7,0" fill="none" stroke="none"/>
+<circle r="1.5" fill="#8CA2FF">
+  <animateMotion dur="20.4s" repeatCount="indefinite" rotate="none" begin="3.2s"><mpath href="#pt_lhqd7_22"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.17;0.04" dur="56.7s" repeatCount="indefinite" begin="3.2s"/>
+</circle>
+<path id="pt_2f1sq_23" d="M791.5,99.0 a18.6050176769495,7.222699102014303 0 1,1 37.2,0 a18.6050176769495,7.222699102014303 0 1,1 -37.2,0" fill="none" stroke="none"/>
+<circle r="1.3" fill="#ECEEF1">
+  <animateMotion dur="26.4s" repeatCount="indefinite" rotate="none" begin="3.2s"><mpath href="#pt_2f1sq_23"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.25;0.06" dur="32.2s" repeatCount="indefinite" begin="3.2s"/>
+</circle>
+<path id="pt_ifayd_24" d="M709.6,67.6 a65.50336167216301,15.092284129932523 0 1,1 131.0,0 a65.50336167216301,15.092284129932523 0 1,1 -131.0,0" fill="none" stroke="none"/>
+<circle r="1.2" fill="#ECEEF1">
+  <animateMotion dur="37.7s" repeatCount="indefinite" rotate="none" begin="2.6s"><mpath href="#pt_ifayd_24"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.16;0.04" dur="38.1s" repeatCount="indefinite" begin="2.6s"/>
+</circle>
+<path id="pt_mmc56_25" d="M609.1,67.0 a10.739228695631027,6.619664137717336 0 1,1 21.5,0 a10.739228695631027,6.619664137717336 0 1,1 -21.5,0" fill="none" stroke="none"/>
+<circle r="1.2" fill="#ECEEF1">
+  <animateMotion dur="23.1s" repeatCount="indefinite" rotate="none" begin="8.4s"><mpath href="#pt_mmc56_25"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.21;0.05" dur="31.9s" repeatCount="indefinite" begin="8.4s"/>
+</circle>
+<path id="pt_l482z_26" d="M622.0,42.7 a20.267437294125557,8.853395508602262 0 1,1 40.5,0 a20.267437294125557,8.853395508602262 0 1,1 -40.5,0" fill="none" stroke="none"/>
+<circle r="2.2" fill="#ECEEF1">
+  <animateMotion dur="34.9s" repeatCount="indefinite" rotate="none" begin="9.6s"><mpath href="#pt_l482z_26"/></animateMotion>
+  <animate attributeName="opacity" values="0.06;0.22;0.06" dur="53.3s" repeatCount="indefinite" begin="9.6s"/>
+</circle>
+<path id="pt_mcgzg_27" d="M121.5,52.9 a65.69125284254551,5.353214813396335 0 1,1 131.4,0 a65.69125284254551,5.353214813396335 0 1,1 -131.4,0" fill="none" stroke="none"/>
+<circle r="1.6" fill="#ECEEF1">
+  <animateMotion dur="24.5s" repeatCount="indefinite" rotate="none" begin="8.4s"><mpath href="#pt_mcgzg_27"/></animateMotion>
+  <animate attributeName="opacity" values="0.07;0.29;0.07" dur="28.7s" repeatCount="indefinite" begin="8.4s"/>
+</circle>
+<path id="pt_a80js_28" d="M204.9,192.1 a21.254639595746994,4.15143002057448 0 1,1 42.5,0 a21.254639595746994,4.15143002057448 0 1,1 -42.5,0" fill="none" stroke="none"/>
+<circle r="1.5" fill="#ECEEF1">
+  <animateMotion dur="27.9s" repeatCount="indefinite" rotate="none" begin="2.0s"><mpath href="#pt_a80js_28"/></animateMotion>
+  <animate attributeName="opacity" values="0.05;0.20;0.05" dur="39.1s" repeatCount="indefinite" begin="2.0s"/>
+</circle>
+<path id="pt_pe74d_29" d="M50.2,173.2 a30.121780335903168,4.237464546691626 0 1,1 60.2,0 a30.121780335903168,4.237464546691626 0 1,1 -60.2,0" fill="none" stroke="none"/>
+<circle r="1.8" fill="#ECEEF1">
+  <animateMotion dur="23.0s" repeatCount="indefinite" rotate="none" begin="2.0s"><mpath href="#pt_pe74d_29"/></animateMotion>
+  <animate attributeName="opacity" values="0.04;0.15;0.04" dur="62.4s" repeatCount="indefinite" begin="2.0s"/>
+</circle>
+<path id="pt_wlm1b_0" d="M685.2,105.2 a24.4296083599329,6.3632080825045705 0 1,1 48.9,0 a24.4296083599329,6.3632080825045705 0 1,1 -48.9,0" fill="none" stroke="none"/>
+<circle r="2.2" fill="#ECEEF1">
+  <animateMotion dur="14.7s" repeatCount="indefinite" rotate="none" begin="2.1s"><mpath href="#pt_wlm1b_0"/></animateMotion>
+  <animate attributeName="opacity" values="0.10;0.41;0.10" dur="23.4s" repeatCount="indefinite" begin="2.1s"/>
+</circle>
+<path id="pt_e8eif_1" d="M290.3,259.7 a43.62023289501667,10.865748039912432 0 1,1 87.2,0 a43.62023289501667,10.865748039912432 0 1,1 -87.2,0" fill="none" stroke="none"/>
+<circle r="2.5" fill="#ECEEF1">
+  <animateMotion dur="18.1s" repeatCount="indefinite" rotate="none" begin="0.1s"><mpath href="#pt_e8eif_1"/></animateMotion>
+  <animate attributeName="opacity" values="0.12;0.47;0.12" dur="18.3s" repeatCount="indefinite" begin="0.1s"/>
+</circle>
+<path id="pt_u8ywg_2" d="M35.0,99.2 a70.9561939239502,13.237827902194113 0 1,1 141.9,0 a70.9561939239502,13.237827902194113 0 1,1 -141.9,0" fill="none" stroke="none"/>
+<circle r="2.8" fill="#ECEEF1">
+  <animateMotion dur="17.8s" repeatCount="indefinite" rotate="none" begin="1.2s"><mpath href="#pt_u8ywg_2"/></animateMotion>
+  <animate attributeName="opacity" values="0.13;0.53;0.13" dur="21.1s" repeatCount="indefinite" begin="1.2s"/>
+</circle>
+<path id="pt_wlje2_3" d="M183.1,49.3 a29.872905060648918,12.007938891649246 0 1,1 59.7,0 a29.872905060648918,12.007938891649246 0 1,1 -59.7,0" fill="none" stroke="none"/>
+<circle r="2.3" fill="#ECEEF1">
+  <animateMotion dur="12.2s" repeatCount="indefinite" rotate="none" begin="4.8s"><mpath href="#pt_wlje2_3"/></animateMotion>
+  <animate attributeName="opacity" values="0.10;0.39;0.10" dur="31.2s" repeatCount="indefinite" begin="4.8s"/>
+</circle>
+<path id="pt_82jt4_4" d="M800.1,87.5 a32.020386040210724,13.901429409626871 0 1,1 64.0,0 a32.020386040210724,13.901429409626871 0 1,1 -64.0,0" fill="none" stroke="none"/>
+<circle r="3.3" fill="#ECEEF1">
+  <animateMotion dur="17.6s" repeatCount="indefinite" rotate="none" begin="5.6s"><mpath href="#pt_82jt4_4"/></animateMotion>
+  <animate attributeName="opacity" values="0.14;0.55;0.14" dur="30.7s" repeatCount="indefinite" begin="5.6s"/>
+</circle>
+<path id="pt_k1wsa_5" d="M7.3,246.3 a68.88200151920319,20.503770008217543 0 1,1 137.8,0 a68.88200151920319,20.503770008217543 0 1,1 -137.8,0" fill="none" stroke="none"/>
+<circle r="2.4" fill="#ECEEF1">
+  <animateMotion dur="21.5s" repeatCount="indefinite" rotate="none" begin="1.3s"><mpath href="#pt_k1wsa_5"/></animateMotion>
+  <animate attributeName="opacity" values="0.09;0.36;0.09" dur="25.2s" repeatCount="indefinite" begin="1.3s"/>
+</circle>
+<path id="pt_f0eeh_6" d="M486.1,192.8 a66.47598950564861,16.674635713919997 0 1,1 133.0,0 a66.47598950564861,16.674635713919997 0 1,1 -133.0,0" fill="none" stroke="none"/>
+<circle r="2.8" fill="#ECEEF1">
+  <animateMotion dur="15.8s" repeatCount="indefinite" rotate="none" begin="0.2s"><mpath href="#pt_f0eeh_6"/></animateMotion>
+  <animate attributeName="opacity" values="0.08;0.33;0.08" dur="21.9s" repeatCount="indefinite" begin="0.2s"/>
+</circle>
+<path id="pt_iquf4_7" d="M454.3,52.0 a55.74268613755703,13.604901865124702 0 1,1 111.5,0 a55.74268613755703,13.604901865124702 0 1,1 -111.5,0" fill="none" stroke="none"/>
+<circle r="3.0" fill="#ECEEF1">
+  <animateMotion dur="20.0s" repeatCount="indefinite" rotate="none" begin="2.1s"><mpath href="#pt_iquf4_7"/></animateMotion>
+  <animate attributeName="opacity" values="0.09;0.34;0.09" dur="16.1s" repeatCount="indefinite" begin="2.1s"/>
+</circle>
+<path id="pt_t7omw_8" d="M471.0,241.0 a27.716264337301254,23.143885266967118 0 1,1 55.4,0 a27.716264337301254,23.143885266967118 0 1,1 -55.4,0" fill="none" stroke="none"/>
+<circle r="2.0" fill="#ECEEF1">
+  <animateMotion dur="14.1s" repeatCount="indefinite" rotate="none" begin="10.0s"><mpath href="#pt_t7omw_8"/></animateMotion>
+  <animate attributeName="opacity" values="0.12;0.48;0.12" dur="31.9s" repeatCount="indefinite" begin="10.0s"/>
+</circle>
+<path id="pt_iml6s_9" d="M107.5,263.6 a35.12043482065201,19.87928356928751 0 1,1 70.2,0 a35.12043482065201,19.87928356928751 0 1,1 -70.2,0" fill="none" stroke="none"/>
+<circle r="3.0" fill="#ECEEF1">
+  <animateMotion dur="11.9s" repeatCount="indefinite" rotate="none" begin="8.8s"><mpath href="#pt_iml6s_9"/></animateMotion>
+  <animate attributeName="opacity" values="0.13;0.51;0.13" dur="37.2s" repeatCount="indefinite" begin="8.8s"/>
+</circle>
+<path id="pt_55zh5_10" d="M552.0,32.7 a30.311031311750412,9.429456633515656 0 1,1 60.6,0 a30.311031311750412,9.429456633515656 0 1,1 -60.6,0" fill="none" stroke="none"/>
+<circle r="3.0" fill="#ECEEF1">
+  <animateMotion dur="12.1s" repeatCount="indefinite" rotate="none" begin="8.0s"><mpath href="#pt_55zh5_10"/></animateMotion>
+  <animate attributeName="opacity" values="0.12;0.48;0.12" dur="29.3s" repeatCount="indefinite" begin="8.0s"/>
+</circle>
+<path id="pt_rrzil_11" d="M528.4,142.7 a46.16692888736725,12.429527681786567 0 1,1 92.3,0 a46.16692888736725,12.429527681786567 0 1,1 -92.3,0" fill="none" stroke="none"/>
+<circle r="3.4" fill="#ECEEF1">
+  <animateMotion dur="13.7s" repeatCount="indefinite" rotate="none" begin="8.5s"><mpath href="#pt_rrzil_11"/></animateMotion>
+  <animate attributeName="opacity" values="0.08;0.31;0.08" dur="35.5s" repeatCount="indefinite" begin="8.5s"/>
+</circle>
+<path id="pt_q06ew_12" d="M475.1,238.1 a47.44419091939926,16.220331609249115 0 1,1 94.9,0 a47.44419091939926,16.220331609249115 0 1,1 -94.9,0" fill="none" stroke="none"/>
+<circle r="3.1" fill="#ECEEF1">
+  <animateMotion dur="19.8s" repeatCount="indefinite" rotate="none" begin="6.9s"><mpath href="#pt_q06ew_12"/></animateMotion>
+  <animate attributeName="opacity" values="0.09;0.36;0.09" dur="35.1s" repeatCount="indefinite" begin="6.9s"/>
+</circle>
+<path id="pt_npri4_13" d="M642.8,118.7 a60.610877484083176,14.860286493320018 0 1,1 121.2,0 a60.610877484083176,14.860286493320018 0 1,1 -121.2,0" fill="none" stroke="none"/>
+<circle r="2.8" fill="#ECEEF1">
+  <animateMotion dur="13.8s" repeatCount="indefinite" rotate="none" begin="6.0s"><mpath href="#pt_npri4_13"/></animateMotion>
+  <animate attributeName="opacity" values="0.08;0.33;0.08" dur="19.0s" repeatCount="indefinite" begin="6.0s"/>
+</circle>
+<path id="pt_88iog_14" d="M119.4,166.4 a31.438743770122528,21.315236987546086 0 1,1 62.9,0 a31.438743770122528,21.315236987546086 0 1,1 -62.9,0" fill="none" stroke="none"/>
+<circle r="2.6" fill="#ECEEF1">
+  <animateMotion dur="13.0s" repeatCount="indefinite" rotate="none" begin="3.9s"><mpath href="#pt_88iog_14"/></animateMotion>
+  <animate attributeName="opacity" values="0.13;0.51;0.13" dur="30.9s" repeatCount="indefinite" begin="3.9s"/>
+</circle>
+<path id="pt_whyf8_15" d="M491.9,169.4 a32.980531960725784,22.096144653391093 0 1,1 66.0,0 a32.980531960725784,22.096144653391093 0 1,1 -66.0,0" fill="none" stroke="none"/>
+<circle r="2.5" fill="#ECEEF1">
+  <animateMotion dur="12.1s" repeatCount="indefinite" rotate="none" begin="8.3s"><mpath href="#pt_whyf8_15"/></animateMotion>
+  <animate attributeName="opacity" values="0.13;0.51;0.13" dur="34.1s" repeatCount="indefinite" begin="8.3s"/>
+</circle>
+<path id="pt_pnhhr_16" d="M303.9,219.9 a11.225667253136635,6.430299101863056 0 1,1 22.5,0 a11.225667253136635,6.430299101863056 0 1,1 -22.5,0" fill="none" stroke="none"/>
+<circle r="2.2" fill="#ECEEF1">
+  <animateMotion dur="19.0s" repeatCount="indefinite" rotate="none" begin="9.2s"><mpath href="#pt_pnhhr_16"/></animateMotion>
+  <animate attributeName="opacity" values="0.11;0.44;0.11" dur="21.6s" repeatCount="indefinite" begin="9.2s"/>
+</circle>
+<path id="pt_nmmgr_17" d="M712.3,161.2 a33.504133090376854,20.547472785227 0 1,1 67.0,0 a33.504133090376854,20.547472785227 0 1,1 -67.0,0" fill="none" stroke="none"/>
+<circle r="2.7" fill="#ECEEF1">
+  <animateMotion dur="11.6s" repeatCount="indefinite" rotate="none" begin="2.1s"><mpath href="#pt_nmmgr_17"/></animateMotion>
+  <animate attributeName="opacity" values="0.13;0.50;0.13" dur="24.5s" repeatCount="indefinite" begin="2.1s"/>
+</circle>
+<path id="pt_k9sen_0" d="M667.3,275.5 a33.63560067117214,14.607822062447667 0 1,1 67.3,0 a33.63560067117214,14.607822062447667 0 1,1 -67.3,0" fill="none" stroke="none"/>
+<circle r="5.1" fill="#8CA2FF">
+  <animateMotion dur="11.2s" repeatCount="indefinite" rotate="none" begin="5.3s"><mpath href="#pt_k9sen_0"/></animateMotion>
+  <animate attributeName="opacity" values="0.19;0.76;0.19" dur="21.1s" repeatCount="indefinite" begin="5.3s"/>
+</circle>
+<path id="pt_b2cnr_1" d="M755.0,266.3 a21.411441564559937,12.009834773372859 0 1,1 42.8,0 a21.411441564559937,12.009834773372859 0 1,1 -42.8,0" fill="none" stroke="none"/>
+<circle r="4.1" fill="#8CA2FF">
+  <animateMotion dur="9.7s" repeatCount="indefinite" rotate="none" begin="4.6s"><mpath href="#pt_b2cnr_1"/></animateMotion>
+  <animate attributeName="opacity" values="0.18;0.74;0.18" dur="9.7s" repeatCount="indefinite" begin="4.6s"/>
+</circle>
+<path id="pt_5xjeb_2" d="M86.1,66.1 a8.61926256120205,12.721419501584023 0 1,1 17.2,0 a8.61926256120205,12.721419501584023 0 1,1 -17.2,0" fill="none" stroke="none"/>
+<circle r="5.1" fill="#8CA2FF">
+  <animateMotion dur="8.6s" repeatCount="indefinite" rotate="none" begin="2.9s"><mpath href="#pt_5xjeb_2"/></animateMotion>
+  <animate attributeName="opacity" values="0.22;0.87;0.22" dur="10.8s" repeatCount="indefinite" begin="2.9s"/>
+</circle>
+<path id="pt_wf8gh_3" d="M46.8,217.5 a22.902295842766762,24.595742475707084 0 1,1 45.8,0 a22.902295842766762,24.595742475707084 0 1,1 -45.8,0" fill="none" stroke="none"/>
+<circle r="5.0" fill="#8CA2FF">
+  <animateMotion dur="13.3s" repeatCount="indefinite" rotate="none" begin="8.2s"><mpath href="#pt_wf8gh_3"/></animateMotion>
+  <animate attributeName="opacity" values="0.16;0.63;0.16" dur="13.0s" repeatCount="indefinite" begin="8.2s"/>
+</circle>
+<path id="pt_jz00m_4" d="M731.2,204.1 a30.97138775885105,19.177443752530962 0 1,1 61.9,0 a30.97138775885105,19.177443752530962 0 1,1 -61.9,0" fill="none" stroke="none"/>
+<circle r="3.3" fill="#8CA2FF">
+  <animateMotion dur="8.7s" repeatCount="indefinite" rotate="none" begin="3.0s"><mpath href="#pt_jz00m_4"/></animateMotion>
+  <animate attributeName="opacity" values="0.17;0.70;0.17" dur="10.4s" repeatCount="indefinite" begin="3.0s"/>
+</circle>
+<path id="pt_0fcsx_5" d="M457.1,71.4 a53.8113729506731,23.09011177625507 0 1,1 107.6,0 a53.8113729506731,23.09011177625507 0 1,1 -107.6,0" fill="none" stroke="none"/>
+<circle r="4.6" fill="#8CA2FF">
+  <animateMotion dur="9.7s" repeatCount="indefinite" rotate="none" begin="6.1s"><mpath href="#pt_0fcsx_5"/></animateMotion>
+  <animate attributeName="opacity" values="0.21;0.83;0.21" dur="8.8s" repeatCount="indefinite" begin="6.1s"/>
+</circle>
+<path id="pt_shyjb_6" d="M487.8,284.5 a23.142437666654587,24.438388062641025 0 1,1 46.3,0 a23.142437666654587,24.438388062641025 0 1,1 -46.3,0" fill="none" stroke="none"/>
+<circle r="4.4" fill="#8CA2FF">
+  <animateMotion dur="8.0s" repeatCount="indefinite" rotate="none" begin="7.6s"><mpath href="#pt_shyjb_6"/></animateMotion>
+  <animate attributeName="opacity" values="0.20;0.80;0.20" dur="11.7s" repeatCount="indefinite" begin="7.6s"/>
+</circle>
+<path id="pt_p61ww_7" d="M459.6,238.0 a34.97432890534401,13.352118449751288 0 1,1 69.9,0 a34.97432890534401,13.352118449751288 0 1,1 -69.9,0" fill="none" stroke="none"/>
+<circle r="4.2" fill="#ECEEF1">
+  <animateMotion dur="11.1s" repeatCount="indefinite" rotate="none" begin="6.8s"><mpath href="#pt_p61ww_7"/></animateMotion>
+  <animate attributeName="opacity" values="0.20;0.81;0.20" dur="12.9s" repeatCount="indefinite" begin="6.8s"/>
+</circle>
+<path id="pt_pa9oi_8" d="M71.9,143.5 a16.077848330140114,3.231283591594547 0 1,1 32.2,0 a16.077848330140114,3.231283591594547 0 1,1 -32.2,0" fill="none" stroke="none"/>
+<circle r="5.2" fill="#ECEEF1">
+  <animateMotion dur="11.5s" repeatCount="indefinite" rotate="none" begin="9.3s"><mpath href="#pt_pa9oi_8"/></animateMotion>
+  <animate attributeName="opacity" values="0.21;0.84;0.21" dur="15.4s" repeatCount="indefinite" begin="9.3s"/>
+</circle>
+<path id="pt_usndw_9" d="M652.3,119.9 a54.13551676273346,22.501990989316255 0 1,1 108.3,0 a54.13551676273346,22.501990989316255 0 1,1 -108.3,0" fill="none" stroke="none"/>
+<circle r="5.1" fill="#ECEEF1">
+  <animateMotion dur="12.3s" repeatCount="indefinite" rotate="none" begin="2.5s"><mpath href="#pt_usndw_9"/></animateMotion>
+  <animate attributeName="opacity" values="0.20;0.82;0.20" dur="17.6s" repeatCount="indefinite" begin="2.5s"/>
+</circle>
+<text font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" x="32" y="310" fill="#8A909B" opacity="0.35">particle field · 58 points</text>
+</svg>

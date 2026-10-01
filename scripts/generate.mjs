@@ -229,9 +229,10 @@ ${body}
 /* ───────────────────────── panels ───────────────────────── */
 
 function hero(t) {
-  const H = 252;
+  // Compact strip: tagline + sparkline only. No name — GitHub already shows it.
+  const H = 116;
   const max = Math.max(1, ...weekTotals);
-  const x0 = PAD, x1 = W - PAD, yb = 228, hh = 40;
+  const x0 = PAD, x1 = W - PAD, yb = 94, hh = 32;
   const pts = weekTotals.map((v, i) => [x0 + ((x1 - x0) * i) / Math.max(1, weekTotals.length - 1), yb - (v / max) * hh]);
   const line = pts.map((p, i) => `${i ? "L" : "M"}${p[0].toFixed(1)} ${p[1].toFixed(1)}`).join(" ");
   const last = pts[pts.length - 1] || [x1, yb];
@@ -239,13 +240,9 @@ function hero(t) {
     t,
     H,
     `
-<text class="lab f" x="${PAD}" y="42">github.com/${esc(USER)}</text>
-<text class="lab f" x="${W - PAD}" y="42" text-anchor="end" ${delay(0.1)}>Updated ${today}</text>
-<rect class="g" x="${PAD}" y="58" width="${W - PAD * 2}" height="1" fill="${t.line}"/>
-<text class="serif f" x="${PAD}" y="122" font-size="48" ${delay(0.2)}>${esc(NAME)}</text>
-<text class="f" x="${PAD}" y="152" font-size="16" fill="${t.mute}" ${delay(0.4)}>${esc(trunc(TAGLINE, 96))}</text>
-<text class="lab f" x="${PAD}" y="188" ${delay(0.6)}>Contributions, last 52 weeks</text>
-<text class="lab f" x="${W - PAD}" y="188" text-anchor="end" ${delay(0.6)}>${fmt(cal.total)} total</text>
+<text class="f" x="${PAD}" y="42" font-size="15" fill="${t.mute}" ${delay(0.1)}>${esc(trunc(TAGLINE, 110))}</text>
+<text class="lab f" x="${PAD}" y="66" ${delay(0.3)}>Contributions, last 52 weeks</text>
+<text class="lab f" x="${W - PAD}" y="66" text-anchor="end" ${delay(0.3)}>${fmt(cal.total)} total</text>
 <rect x="${x0}" y="${yb}" width="${x1 - x0}" height="1" fill="${t.line}"/>
 ${
   pts.length
@@ -254,6 +251,84 @@ ${
     : ""
 }`
   );
+}
+
+/* ─── 3-D particle field ────────────────────────────────────
+   Pure SVG + SMIL — no JS — works on GitHub.
+   Three depth layers:
+     Far  — tiny dim dots, very slow elliptic orbits
+     Mid  — medium dots, moderate speed, muted edge flickers
+     Near — larger accent dots, faster, bright edge pulses
+   Edges blink in/out independently to suggest formations.
+────────────────────────────────────────────────────────── */
+function particle(t) {
+  const W2 = W, H2 = 320;
+  // Deterministic PRNG (seeded so the SVG is stable)
+  let s = 0x9e3779b9;
+  const rng = () => { s ^= s << 13; s ^= s >> 17; s ^= s << 5; return (s >>> 0) / 4294967296; };
+
+  const layer = (n, rMin, rMax, durMin, durMax, opBase, opSpan, accentOdds) =>
+    Array.from({ length: n }, (_, i) => ({
+      cx:   PAD + rng() * (W2 - PAD * 2),
+      cy:   24  + rng() * (H2 - 48),
+      r:    rMin + rng() * (rMax - rMin),
+      rx:   8   + rng() * 64,
+      ry:   3   + rng() * 22,
+      dur:  (durMin + rng() * (durMax - durMin)).toFixed(1),
+      bDur: (durMin * 1.4 + rng() * durMax).toFixed(1),
+      beg:  (rng() * 10).toFixed(1),
+      op:   (opBase + rng() * opSpan).toFixed(2),
+      fill: rng() < accentOdds ? t.accent : t.ink,
+      id:   `pt_${Math.random().toString(36).slice(2, 7)}_${i}`,
+    }));
+
+  const far  = layer(30, 1.2, 2.2, 20, 40, 0.10, 0.20, 0.04);
+  const mid  = layer(18, 2.0, 3.4, 11, 22, 0.28, 0.28, 0.12);
+  const near = layer(10, 3.2, 5.2,  6, 14, 0.60, 0.30, 0.60);
+
+  const dot = ({ cx, cy, r, rx, ry, dur, bDur, beg, op, fill, id }) => {
+    const opLow = (parseFloat(op) * 0.25).toFixed(2);
+    const pathD = `M${(cx - rx).toFixed(1)},${cy.toFixed(1)} a${rx},${ry} 0 1,1 ${(rx * 2).toFixed(1)},0 a${rx},${ry} 0 1,1 -${(rx * 2).toFixed(1)},0`;
+    return [
+      `<path id="${id}" d="${pathD}" fill="none" stroke="none"/>`,
+      `<circle r="${r.toFixed(1)}" fill="${fill}">`,
+      `  <animateMotion dur="${dur}s" repeatCount="indefinite" rotate="none" begin="${beg}s"><mpath href="#${id}"/></animateMotion>`,
+      `  <animate attributeName="opacity" values="${opLow};${op};${opLow}" dur="${bDur}s" repeatCount="indefinite" begin="${beg}s"/>`,
+      `</circle>`,
+    ].join("\n");
+  };
+
+  // Edges — pre-sampled so the SVG has no runtime logic
+  const edges = [];
+  const tryEdge = (a, b, maxDist, stroke, sw, opPeak, durMin, durMax) => {
+    const dx = a.cx - b.cx, dy = a.cy - b.cy;
+    if (Math.hypot(dx, dy) < maxDist) {
+      const dur = (durMin + rng() * durMax).toFixed(1);
+      const beg = (rng() * 8).toFixed(1);
+      edges.push(
+        `<line x1="${a.cx.toFixed(1)}" y1="${a.cy.toFixed(1)}" x2="${b.cx.toFixed(1)}" y2="${b.cy.toFixed(1)}" stroke="${stroke}" stroke-width="${sw}">` +
+        `<animate attributeName="stroke-opacity" values="0;${opPeak};0.04;${(opPeak * 0.55).toFixed(2)};0" dur="${dur}s" repeatCount="indefinite" begin="${beg}s"/></line>`
+      );
+    }
+  };
+  for (let i = 0; i < near.length; i++)
+    for (let j = i + 1; j < near.length; j++)
+      tryEdge(near[i], near[j], 220, t.accent, 0.7, 0.38, 6, 10);
+  for (let i = 0; i < mid.length; i++)
+    for (let j = i + 1; j < mid.length; j++)
+      tryEdge(mid[i], mid[j], 150, t.ink, 0.5, 0.14, 10, 16);
+
+  const label = `<text font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" x="${PAD}" y="${H2 - 10}" fill="${t.mute}" opacity="0.35">particle field · ${far.length + mid.length + near.length} points</text>`;
+
+  return [
+    `<svg xmlns="http://www.w3.org/2000/svg" width="${W2}" height="${H2}" viewBox="0 0 ${W2} ${H2}" role="img">`,
+    `<style>@media(prefers-reduced-motion:reduce){circle,line{animation:none!important}}</style>`,
+    `<rect x=".5" y=".5" width="${W2 - 1}" height="${H2 - 1}" rx="8" fill="${t.bg}" stroke="${t.line}"/>`,
+    ...edges,
+    ...[...far, ...mid, ...near].map(dot),
+    label,
+    `</svg>`,
+  ].join("\n");
 }
 
 function metrics(t) {
@@ -423,27 +498,12 @@ function streakCard(t) {
 /* ───────────────────────── write ───────────────────────── */
 
 await mkdir(OUT, { recursive: true });
-const panels = { hero, metrics, activity, languages, repos: reposPanel, overview, langcard: langCard, streak: streakCard };
+const panels = { hero, particle, metrics, activity, languages, overview, langcard: langCard, streak: streakCard };
 for (const [theme, t] of Object.entries(THEMES)) {
   for (const [name, fn] of Object.entries(panels)) {
     await writeFile(`${OUT}/${name}-${theme}.svg`, fn(t));
   }
 }
 
-// Inject a linkable repo table between markers in README.md (SVGs can't hold links).
-try {
-  const table = [
-    "| Repository | Description | Stars | Language |",
-    "| :-- | :-- | --: | :-- |",
-    ...featured.map(
-      (r) => `| [${r.name}](${r.html_url}) | ${(r.description || "").replace(/\|/g, "\\|")} | ${fmt(r.stargazers_count)} | ${r.language || ""} |`
-    ),
-  ].join("\n");
-  const md = await readFile("README.md", "utf8");
-  const next = md.replace(/(<!--REPOS:START-->)[\s\S]*?(<!--REPOS:END-->)/, `$1\n${table}\n$2`);
-  if (next !== md) await writeFile("README.md", next);
-} catch (e) {
-  console.warn("Could not inject repos table into README.md:", e.message);
-}
-
 console.log(`Rendered ${Object.keys(panels).length * 2} panels for ${USER}.`);
+

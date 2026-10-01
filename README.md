@@ -20,6 +20,15 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/particle-dark.svg">
+    <img alt="Particle field" src="assets/particle-light.svg" width="90%"/>
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg">
     <img alt="Overview" src="assets/overview-light.svg" width="32%"/>
   </picture>
@@ -37,48 +46,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-    <img alt="Totals" src="assets/metrics-light.svg" width="90%"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
     <img alt="Contribution activity" src="assets/activity-light.svg" width="90%"/>
   </picture>
 </p>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <img alt="Language distribution" src="assets/languages-light.svg" width="90%"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/repos-dark.svg">
-    <img alt="Selected repositories" src="assets/repos-light.svg" width="90%"/>
-  </picture>
-</p>
-
-<!--REPOS:START-->
-| Repository | Description | Stars | Language |
-| :-- | :-- | --: | :-- |
-| [shockmap](https://github.com/dhruva137/shockmap) |  | 1 | JavaScript |
-| [game-night](https://github.com/dhruva137/game-night) |  | 0 | TypeScript |
-| [dhruva137.github.io](https://github.com/dhruva137/dhruva137.github.io) |  | 0 | TypeScript |
-| [coast-vnet](https://github.com/dhruva137/coast-vnet) |  | 0 | Python |
-| [coast](https://github.com/dhruva137/coast) |  | 0 | Python |
-| [coast-](https://github.com/dhruva137/coast-) |  | 0 | Python |
-<!--REPOS:END-->
 
 <br/>
 
@@ -94,10 +65,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruva137&style=flat-square&color=3A56D4&labelColor=14171C&label=views"/>
 </p>
-
-<!--
-Your original gif, if you want it back:
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpeWl5bHFhZ3djemRnc2phcWw0Z3p0OTJxZWxxcm9jdXVqeHduMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif"/>
-</p>
--->
