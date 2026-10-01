@@ -1,58 +1,95 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&text=dhruva137&fontSize=14&fontColor=555E7A&fontAlignY=68"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <img alt="dhruva137" src="assets/hero-light.svg" width="90%"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3670A0"/>
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Python-14171C?style=flat-square&logo=python&logoColor=8A909B"/>
+  <img src="https://img.shields.io/badge/PyTorch-14171C?style=flat-square&logo=pytorch&logoColor=8A909B"/>
+  <img src="https://img.shields.io/badge/scikit--learn-14171C?style=flat-square&logo=scikit-learn&logoColor=8A909B"/>
+  <img src="https://img.shields.io/badge/FastAPI-14171C?style=flat-square&logo=fastapi&logoColor=8A909B"/>
+  <img src="https://img.shields.io/badge/JavaScript-14171C?style=flat-square&logo=javascript&logoColor=8A909B"/>
+  <img src="https://img.shields.io/badge/Linux-14171C?style=flat-square&logo=linux&logoColor=8A909B"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruva137&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruva137&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruva137&theme=github_dark" width="32%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg">
+    <img alt="Overview" src="assets/overview-light.svg" width="32%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langcard-dark.svg">
+    <img alt="Languages" src="assets/langcard-light.svg" width="32%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+    <img alt="Streak" src="assets/streak-light.svg" width="32%"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruva137&theme=github_dark" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+    <img alt="Totals" src="assets/metrics-light.svg" width="90%"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruva137&bg_color=0d1117&color=8b949e&line=555E7A&point=c9d1d9&area=true&hide_border=true" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+    <img alt="Contribution activity" src="assets/activity-light.svg" width="90%"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruva137&theme=transparent&hide_border=true&ring=555E7A&fire=555E7A&currStreakLabel=555E7A&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0d1117" width="55%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+    <img alt="Language distribution" src="assets/languages-light.svg" width="90%"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repos-dark.svg">
+    <img alt="Selected repositories" src="assets/repos-light.svg" width="90%"/>
+  </picture>
+</p>
+
+<!--REPOS:START-->
+<!--REPOS:END-->
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruva137&style=flat-square&color=555E7A&label=views"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruva137&style=flat-square&color=3A56D4&labelColor=14171C&label=views"/>
 </p>
 
-<br/>
-
+<!--
+Your original gif, if you want it back:
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpeWl5bHFhZ3djemRnc2phcWw0Z3p0OTJxZWxxcm9jdXVqeHduMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif"/>
 </p>
+-->
