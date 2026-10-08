@@ -20,17 +20,17 @@ text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue"
 }</style>
 <rect x=".5" y=".5" width="879" height="167" rx="8" fill="#0F1115" stroke="#23272E"/>
 <text class="lab f" x="32" y="38" style="animation-delay:0.10s">Languages, by bytes across 25 recent repositories</text>
-<rect class="g" x="32.0" y="64" width="503.0" height="8" rx="1.5" fill="#8CA2FF" fill-opacity="1" style="animation-delay:0.30s"/>
-<rect class="g" x="538.0" y="64" width="113.8" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.8" style="animation-delay:0.42s"/>
-<rect class="g" x="654.8" y="64" width="76.4" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.58" style="animation-delay:0.54s"/>
-<rect class="g" x="734.2" y="64" width="64.5" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.42" style="animation-delay:0.66s"/>
-<rect class="g" x="801.7" y="64" width="26.0" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.28" style="animation-delay:0.78s"/>
-<rect class="g" x="830.7" y="64" width="3.7" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.18" style="animation-delay:0.90s"/>
-<rect class="g" x="837.4" y="64" width="7.6" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.1" style="animation-delay:1.02s"/>
+<rect class="g" x="32.0" y="64" width="503.5" height="8" rx="1.5" fill="#8CA2FF" fill-opacity="1" style="animation-delay:0.30s"/>
+<rect class="g" x="538.5" y="64" width="113.6" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.8" style="animation-delay:0.42s"/>
+<rect class="g" x="655.1" y="64" width="76.3" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.58" style="animation-delay:0.54s"/>
+<rect class="g" x="734.4" y="64" width="64.4" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.42" style="animation-delay:0.66s"/>
+<rect class="g" x="801.8" y="64" width="26.0" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.28" style="animation-delay:0.78s"/>
+<rect class="g" x="830.8" y="64" width="3.7" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.18" style="animation-delay:0.90s"/>
+<rect class="g" x="837.5" y="64" width="7.5" height="8" rx="1.5" fill="#ECEEF1" fill-opacity="0.1" style="animation-delay:1.02s"/>
 <g class="f" style="animation-delay:0.80s">
 <circle cx="36" cy="108" r="4" fill="#8CA2FF" fill-opacity="1"/>
 <text x="48" y="112" font-size="13">Python</text>
-<text class="lab" x="212" y="112" text-anchor="end">62.0%</text></g>
+<text class="lab" x="212" y="112" text-anchor="end">62.1%</text></g>
 <g class="f" style="animation-delay:0.87s">
 <circle cx="240" cy="108" r="4" fill="#ECEEF1" fill-opacity="0.8"/>
 <text x="252" y="112" font-size="13">Kotlin</text>
@@ -46,7 +46,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue"
 <g class="f" style="animation-delay:1.08s">
 <circle cx="36" cy="136" r="4" fill="#ECEEF1" fill-opacity="0.28"/>
 <text x="48" y="140" font-size="13">C++</text>
-<text class="lab" x="212" y="140" text-anchor="end">3.6%</text></g>
+<text class="lab" x="212" y="140" text-anchor="end">3.5%</text></g>
 <g class="f" style="animation-delay:1.15s">
 <circle cx="240" cy="136" r="4" fill="#ECEEF1" fill-opacity="0.18"/>
 <text x="252" y="140" font-size="13">Dart</text>

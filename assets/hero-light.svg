@@ -22,8 +22,8 @@ text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue"
 
 <text class="f" x="32" y="42" font-size="15" fill="#6A707A" style="animation-delay:0.10s">Building careful systems and measuring what they do.</text>
 <text class="lab f" x="32" y="66" style="animation-delay:0.30s">Contributions, last 52 weeks</text>
-<text class="lab f" x="848" y="66" text-anchor="end" style="animation-delay:0.30s">543 total</text>
+<text class="lab f" x="848" y="66" text-anchor="end" style="animation-delay:0.30s">579 total</text>
 <rect x="32" y="94" width="816" height="1" fill="#E3E5E8"/>
-<path class="d" pathLength="1" d="M32.0 94.0 L47.7 94.0 L63.4 94.0 L79.1 94.0 L94.8 94.0 L110.5 94.0 L126.2 94.0 L141.8 94.0 L157.5 94.0 L173.2 94.0 L188.9 92.8 L204.6 92.7 L220.3 94.0 L236.0 94.0 L251.7 94.0 L267.4 93.0 L283.1 94.0 L298.8 93.2 L314.5 94.0 L330.2 94.0 L345.8 91.7 L361.5 93.8 L377.2 94.0 L392.9 93.0 L408.6 91.7 L424.3 91.0 L440.0 90.5 L455.7 93.8 L471.4 92.7 L487.1 89.6 L502.8 93.3 L518.5 94.0 L534.2 94.0 L549.8 94.0 L565.5 94.0 L581.2 94.0 L596.9 94.0 L612.6 94.0 L628.3 94.0 L644.0 94.0 L659.7 91.3 L675.4 93.5 L691.1 93.7 L706.8 92.7 L722.5 91.8 L738.2 87.5 L753.8 91.8 L769.5 88.5 L785.2 62.0 L800.9 92.0 L816.6 93.8 L832.3 90.8 L848.0 85.0" fill="none" stroke="#3A56D4" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
-<g class="f" style="animation-delay:3.10s"><circle class="p" cx="848.0" cy="85.0" r="3" fill="#3A56D4"/></g>
+<path class="d" pathLength="1" d="M32.0 94.0 L47.7 94.0 L63.4 94.0 L79.1 94.0 L94.8 94.0 L110.5 94.0 L126.2 94.0 L141.8 94.0 L157.5 94.0 L173.2 94.0 L188.9 92.8 L204.6 92.7 L220.3 94.0 L236.0 94.0 L251.7 94.0 L267.4 93.0 L283.1 94.0 L298.8 93.2 L314.5 94.0 L330.2 94.0 L345.8 91.7 L361.5 93.8 L377.2 94.0 L392.9 93.0 L408.6 91.7 L424.3 91.0 L440.0 90.5 L455.7 93.8 L471.4 92.7 L487.1 89.6 L502.8 93.3 L518.5 94.0 L534.2 94.0 L549.8 94.0 L565.5 94.0 L581.2 94.0 L596.9 94.0 L612.6 94.0 L628.3 94.0 L644.0 94.0 L659.7 91.3 L675.4 93.5 L691.1 93.7 L706.8 92.7 L722.5 91.8 L738.2 87.5 L753.8 91.8 L769.5 88.5 L785.2 62.0 L800.9 92.0 L816.6 93.8 L832.3 90.8 L848.0 78.9" fill="none" stroke="#3A56D4" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<g class="f" style="animation-delay:3.10s"><circle class="p" cx="848.0" cy="78.9" r="3" fill="#3A56D4"/></g>
 </svg>
