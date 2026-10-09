@@ -33,6 +33,6 @@ text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue"
 <text class="sub f" x="460" y="112" style="animation-delay:0.49s">4 followers</text>
 <rect x="644" y="28" width="1" height="80" fill="#23272E"/>
 <text class="lab f" x="664" y="46" style="animation-delay:0.51s">Contributions, 12 months</text>
-<text class="serif f" x="664" y="88" font-size="40" style="animation-delay:0.56s">579</text>
-<text class="sub f" x="664" y="112" style="animation-delay:0.61s">11.1 per week on average</text>
+<text class="serif f" x="664" y="88" font-size="40" style="animation-delay:0.56s">604</text>
+<text class="sub f" x="664" y="112" style="animation-delay:0.61s">11.6 per week on average</text>
 </svg>
