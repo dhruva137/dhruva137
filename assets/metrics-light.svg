@@ -22,7 +22,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue"
 
 <text class="lab f" x="32" y="46" style="animation-delay:0.15s">Public repositories</text>
 <text class="serif f" x="32" y="88" font-size="40" style="animation-delay:0.20s">34</text>
-<text class="sub f" x="32" y="112" style="animation-delay:0.25s">10 active in the last 30 days</text>
+<text class="sub f" x="32" y="112" style="animation-delay:0.25s">8 active in the last 30 days</text>
 <rect x="236" y="28" width="1" height="80" fill="#E3E5E8"/>
 <text class="lab f" x="256" y="46" style="animation-delay:0.27s">Stars received</text>
 <text class="serif f" x="256" y="88" font-size="40" style="animation-delay:0.32s">1</text>
