@@ -1,67 +1,46 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <img alt="dhruva137" src="assets/hero-light.svg" width="90%"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Dhruva P Gowda — measuring what AI systems actually do, and building software that has to be checked." src="assets/hero-light.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-now-dark.svg">
+  <img alt="Currently" src="assets/section-now-light.svg" width="100%">
+</picture>
+
+I research AI safety, mostly the question underneath the headline results: **is the measurement measuring what we think it is?** Lately that means linear probes that may be reading words rather than internal states, welfare evaluations a model can recognise as tests, and coding agents that pass the suite without doing the work.
+
+I also build software that has to survive being checked: a certified optimisation engine, a tool that finds the cryptography inside compiled binaries, and forensics for agents that collude. Most of it lives under [Paper To Anything](https://papertoanything.com).
+
+<sub>AI Safety Camp researcher&nbsp;&nbsp;·&nbsp;&nbsp;TARA Bengaluru city organiser</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-work-dark.svg">
+  <img alt="Selected work" src="assets/section-work-light.svg" width="100%">
+</picture>
+
+<p>
+  <a href="https://github.com/dhruva137/passing-isnt-proof"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-1-dark.svg"><img alt="Passing Isn't Proof" src="assets/work-1-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dhruva137/Q.E.N.I.V.O"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-2-dark.svg"><img alt="QENIVO" src="assets/work-2-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dhruva137/V.E.R.A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-3-dark.svg"><img alt="V.E.R.A." src="assets/work-3-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dhruva137/kollude"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-4-dark.svg"><img alt="kollude" src="assets/work-4-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dhruva137/pramana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-5-dark.svg"><img alt="Pramana" src="assets/work-5-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dhruva137/coast"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-6-dark.svg"><img alt="COAST" src="assets/work-6-light.svg" width="49%"></picture></a>
 </p>
 
-<br/>
+<sub>More research notes and works in progress live in [research-portfolio](https://github.com/dhruva137/research-portfolio).</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14171C?style=flat-square&logo=python&logoColor=8A909B"/>
-  <img src="https://img.shields.io/badge/PyTorch-14171C?style=flat-square&logo=pytorch&logoColor=8A909B"/>
-  <img src="https://img.shields.io/badge/scikit--learn-14171C?style=flat-square&logo=scikit-learn&logoColor=8A909B"/>
-  <img src="https://img.shields.io/badge/FastAPI-14171C?style=flat-square&logo=fastapi&logoColor=8A909B"/>
-  <img src="https://img.shields.io/badge/JavaScript-14171C?style=flat-square&logo=javascript&logoColor=8A909B"/>
-  <img src="https://img.shields.io/badge/Linux-14171C?style=flat-square&logo=linux&logoColor=8A909B"/>
-</p>
+<br>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-elsewhere-dark.svg">
+  <img alt="Elsewhere" src="assets/section-elsewhere-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/particle-dark.svg">
-    <img alt="Particle field" src="assets/particle-light.svg" width="90%"/>
-  </picture>
-</p>
+[dhruva137.github.io](https://dhruva137.github.io/)&nbsp;&nbsp;·&nbsp;&nbsp;[Paper To Anything](https://papertoanything.com)&nbsp;&nbsp;·&nbsp;&nbsp;[research-portfolio](https://github.com/dhruva137/research-portfolio)
 
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/overview-dark.svg">
-    <img alt="Overview" src="assets/overview-light.svg" width="32%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/langcard-dark.svg">
-    <img alt="Languages" src="assets/langcard-light.svg" width="32%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
-    <img alt="Streak" src="assets/streak-light.svg" width="32%"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-    <img alt="Contribution activity" src="assets/activity-light.svg" width="90%"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dhruva137/dhruva137/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruva137&style=flat-square&color=3A56D4&labelColor=14171C&label=views"/>
-</p>
+<sub>Bengaluru&nbsp;&nbsp;·&nbsp;&nbsp;12.97° N, 77.59° E</sub>
