@@ -1,0 +1,43 @@
+name: refresh
+
+on:
+  schedule:
+    - cron: "30 21 * * *" # 03:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Scan all public code
+        run: node scripts/scan.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ github.token }}
+          CORPUS_DIR: ${{ runner.temp }}/corpus
+
+      - name: Draw
+        run: node scripts/build.mjs
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets data
+          git diff --cached --quiet || (git commit -m "chore: recompute" && git push)
